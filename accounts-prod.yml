@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to TheRealCodeShow Bank accounts related prod APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@therealcodeshow.com"
+    email: "{cypher}1063ffeb6c220bd07abbfd62c8c7175fc139cf57dd93255eb57259bd30620a55758005b01728fc788a84c2eff12c98dd"
   onCallSupport:
     - "(503) 8897-9365"
